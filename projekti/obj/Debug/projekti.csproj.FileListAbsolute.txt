@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.Form1.resources
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.Properties.Resources.resources
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\projekti\projekti\bin\Debug\projekti.exe.config
+C:\Users\Asus\source\repos\projekti\projekti\bin\Debug\projekti.exe
+C:\Users\Asus\source\repos\projekti\projekti\bin\Debug\projekti.pdb
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.exe
+C:\Users\Asus\source\repos\projekti\projekti\obj\Debug\projekti.pdb
